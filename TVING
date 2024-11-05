@@ -26,13 +26,13 @@ display: block;
 <span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span>
 <table bgcolor="#ffffff" align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border: 1px solid #eeeeee; color: hsla(0,0%,9%,1);" width="600px" height="auto" >
 <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/01.jpg?raw=true" alt="" width="750px" height usemap="#Map2""auto"></td>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/01.jpg?raw=true" alt="" width="750px" height usemap="#Map""auto"></td>
   </tr>
 <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/02.jpg?raw=true" width="750px" height"auto"></td>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/02.jpg?raw=true" width="750px" height usemap="#Map2""auto"></td>
   </tr>
   <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/03.jpg?raw=true" width="750px" height"auto"></td>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/03.jpg?raw=true" width="750px" height usemap="#Map3""auto"></td>
   </tr>
 
 	
@@ -40,10 +40,17 @@ display: block;
 
 
 
+
+
+
 <map name="Map">
-  <area shape="rect" coords="1130,891,1485,977" href="https://registrations.kr/EventContent/241105/reg/form_INTRO.html">
+  <area shape="rect" coords="3,4,751,522" href="https://registrations.kr/EventContent/241105/reg/form_INTRO.html">
 </map>
 
 <map name="Map2">
-  <area shape="rect" coords="542,427,716,470" href="https://registrations.kr/EventContent/241105/reg/form_INTRO.html">
+  <area shape="rect" coords="4,2,749,1078" href="https://registrations.kr/EventContent/241105/reg/form_INTRO.html">
+</map>
+
+<map name="Map3">
+  <area shape="rect" coords="4,3,747,721" href="https://registrations.kr/EventContent/241105/reg/form_INTRO.html">
 </map>
