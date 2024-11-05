@@ -26,23 +26,20 @@ display: block;
 <span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span>
 <table bgcolor="#ffffff" align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border: 1px solid #eeeeee; color: hsla(0,0%,9%,1);" width="700px" height="auto" >
 <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_00.jpg?raw=true" alt=""></td>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/01.jpg?raw=true" alt="" usemap="#Map"></td>
   </tr>
 <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_02.jpg?raw=true"></td>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/02.jpg?raw=true"></td>
   </tr>
   <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_03.jpg?raw=true"></td>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/TVING_After/blob/main/03.jpg?raw=true"></td>
   </tr>
-  <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_04.jpg?raw=true" usemap="#Map2"></td>
-  </tr>
-  <tr>
-	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_05.jpg?raw=true"></td>
-  </tr>
+
 	
 </table>
 
+
+
 <map name="Map">
-  <area shape="rect" coords="260,186,441,226" href="https://dubiz.co.kr/Event/231">
+  <area shape="rect" coords="1130,891,1485,977" href="https://registrations.kr/EventContent/241105/reg/form_INTRO.html">
 </map>
