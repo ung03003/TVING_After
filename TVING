@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>TVING MARKETING CONFERENCE</title>
+	<style>
+
+	body {
+    background-color: hsla(0,0%,100%,1);
+    color: hsla(192,94%,94%,1);
+    border-color: hsla(192,94%,94%,1);
+
+}
+img{
+
+display: block;
+
+}
+    body,td,th {
+    color: hsla(0,0%,9%,1);
+}
+    </style>
+</head>
+
+<body text="#181818" link="#E1F8FE" vlink="#FFFFFF" alink="#E1F8FE" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" color="#373737">
+<span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span>
+<table bgcolor="#ffffff" align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border: 1px solid #eeeeee; color: hsla(0,0%,9%,1);" width="700px" height="auto" >
+<tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_00.jpg?raw=true" alt=""></td>
+  </tr>
+<tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_02.jpg?raw=true"></td>
+  </tr>
+  <tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_03.jpg?raw=true"></td>
+  </tr>
+  <tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_04.jpg?raw=true" usemap="#Map2"></td>
+  </tr>
+  <tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://github.com/ung03003/HP_SIMTOS/blob/main/HP_SIMTOS_eDM_05.jpg?raw=true"></td>
+  </tr>
+	
+</table>
+
+<map name="Map">
+  <area shape="rect" coords="260,186,441,226" href="https://dubiz.co.kr/Event/231">
+</map>
